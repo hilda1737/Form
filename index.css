@@ -1,0 +1,78 @@
+
+   @import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Pacifico&display=swap');
+
+body{
+    background-image: linear-gradient(to right, rgb(175,133,53), rgb(238, 182, 238))
+}
+
+.box{
+  
+    width: 50%;
+    height: 80.5vh;
+    margin-left: 40%;
+    margin-top: 3%;
+    background: rgb(247, 243, 243);
+border-top-right-radius: 14px;
+border-bottom-right-radius:15px ;
+margin-bottom: 1px;
+position: fixed;
+}
+.box1{
+
+    width: 20%;
+    height:80.5vh ;
+    left:270px;
+    top:8%;
+    margin-right:40%;
+    margin-bottom: 150px;
+    margin-top: -4px;
+    background: rgb(247, 211, 144);
+    border-top-left-radius: 10px;
+border-bottom-left-radius: 15px;
+position: fixed;
+}
+
+.jojo{
+  display: flex;
+}
+label{
+  font-size: 20px;
+}
+input{
+  font-size: 20px;
+}
+.fname{
+  padding: 10px;
+}
+.uname{
+  padding: 10px;
+}
+.signupbtn{
+    padding: 10px;
+    background-color: rgb(207, 79, 101);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: -90px;
+}
+.sign{
+  background-color: blue;
+ 
+}
+h2{
+  color: rgb(8, 8, 8);
+
+}
+h3{
+  color: rgb(172, 90, 39);
+}
+.footer{
+  margin-bottom: 120px;
+}
+h1{
+ 
+  font-family: 'Pacifico', cursive;
+  color: rgb(151, 76, 5);
+  font-size: small;
+}
+
